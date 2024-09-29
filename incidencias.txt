@@ -1,0 +1,18 @@
+Número de incidencia: #1
+Usuario: a
+Tipo de incidencia: a
+Descripción: a
+Fecha y hora de apertura: 2024-05-14 08:29:34
+Última modificación: 2024-05-14 08:29:34
+Estado: Completada
+
+
+Número de incidencia: #2
+Usuario: b
+Tipo de incidencia: b
+Descripción: b
+Fecha y hora de apertura: 2024-05-14 08:29:37
+Última modificación: 2024-05-14 08:29:37
+Estado: Cerrada
+
+
